@@ -1,0 +1,22 @@
+C:\Users\brvelazquez\Desktop\VELAZQUEZ\VELAZQUEZ\bin\Debug\VELAZQUEZ.exe.config
+C:\Users\brvelazquez\Desktop\VELAZQUEZ\VELAZQUEZ\bin\Debug\VELAZQUEZ.exe
+C:\Users\brvelazquez\Desktop\VELAZQUEZ\VELAZQUEZ\bin\Debug\VELAZQUEZ.pdb
+C:\Users\brvelazquez\Desktop\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.csprojResolveAssemblyReference.cache
+C:\Users\brvelazquez\Desktop\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.csproj.CoreCompileInputs.cache
+C:\Users\brvelazquez\Desktop\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.exe
+C:\Users\brvelazquez\Desktop\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.pdb
+F:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\bin\Debug\VELAZQUEZ.exe.config
+F:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\bin\Debug\VELAZQUEZ.exe
+F:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\bin\Debug\VELAZQUEZ.pdb
+F:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.csprojResolveAssemblyReference.cache
+F:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.csproj.CoreCompileInputs.cache
+F:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.exe
+F:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.pdb
+D:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\bin\Debug\VELAZQUEZ.exe.config
+D:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\bin\Debug\VELAZQUEZ.exe
+D:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\bin\Debug\VELAZQUEZ.pdb
+D:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.csproj.AssemblyReference.cache
+D:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.csproj.CoreCompileInputs.cache
+D:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.exe
+D:\source\repos\LABORATORIO 2\Octubre\12 del 10\VELAZQUEZ\VELAZQUEZ\obj\Debug\VELAZQUEZ.pdb
